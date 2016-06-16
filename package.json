@@ -1,0 +1,10 @@
+{
+  "name": "Anti-Ransomware Monitor Server",
+  "version": "0.0.1",
+  "description": "Monitor Server of Anti-Ransomware",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "mongoose": "^4.3.4"
+  }
+}
